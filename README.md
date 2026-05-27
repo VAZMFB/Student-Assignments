@@ -1,5 +1,5 @@
 # Student Assignments 
-For some courses, additional student assignments are available on [vazmfb.com](https://vazmfb.com), students are encouraged to solve these additional assignments and then publish their works.
+For some courses, additional student assignments are available, students are encouraged to solve these additional assignments and then publish their works.
 
 ## List of successfully completed additional assignments
 
